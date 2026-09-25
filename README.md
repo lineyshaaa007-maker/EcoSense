@@ -490,6 +490,70 @@ The data storage diagram shows how the waste records are stored in the CSV file 
 
 The screenshots below show some of the main features and testing performed during the development of EcoSense.
 
+### Waste History
+
+![Waste History](screenshots/01_waste_history.png)
+
+![Waste History - Additional View](screenshots/01_waste_history_2.png)
+
+### Search
+
+![Search](screenshots/02_search.png)
+
+### Statistics
+
+![Statistics](screenshots/03_statistics.png)
+
+### Recommendations
+
+![Recommendations](screenshots/04_recommendations.png)
+
+### Error Handling
+
+![Error Handling](screenshots/05_error_handling.png)
+
+![Quantity Validation](screenshots/05_error_handling_quantity.png)
+
+![Condition Validation](screenshots/05_error_handling_condition.png)
+
+![Material Validation](screenshots/05_error_handling_material.png)
+
+### CSV Storage
+
+![CSV Storage](screenshots/06_csv_storage.png)
+
+### Tests Passed
+
+![Tests Passed](screenshots/07_tests_passed.png)
+
+### Architecture Diagram
+
+![Architecture Diagram](screenshots/architecture_diagram.png)
+
+### Class Diagram
+
+![Class Diagram](screenshots/class_diagram.png)
+
+### Component Diagram
+
+![Component Diagram](screenshots/component_diagram.png)
+
+### Storage Diagram
+
+![Storage Diagram](screenshots/storage_diagram.png)
+
+### Use Case Diagram
+
+![Use Case Diagram](screenshots/use_case_diagram.png)
+
+### Workflow Diagram
+
+![Workflow Diagram](screenshots/workflow_diagram.png)
+
+### Sequence Diagram
+
+![Sequence Diagram](screenshots/sequence_diagram.png)
+
 20.1 Waste History
 
 20.2 Search Results
