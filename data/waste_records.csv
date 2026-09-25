@@ -1,0 +1,7 @@
+item_name,material,condition,quantity,category,status,recommendation
+Water bottle,plastic,clean,2,Plastic Waste,Recyclable,Recycle the plastic through an appropriate recycling system.
+Newspaper,paper,clean,5,Paper Waste,Recyclable,Recycle clean and dry paper.
+Glass jar,glass,clean,3,Glass Waste,Recyclable,Place glass items in an appropriate glass recycling collection.
+Aluminium can,metal,clean,4,Metal Waste,Recyclable,Send suitable metal items for recycling.
+Banana Peel,organic,clean,3,Organic Waste,Biodegradable,Consider composting suitable organic waste.
+Old Phone,e-waste,damaged,1,E-Waste,Special Disposal Required,Send electronic waste to an authorized e-waste collection facility.
