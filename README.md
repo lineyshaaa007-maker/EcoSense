@@ -722,7 +722,7 @@ The class diagram shows the WasteItem class, its attributes, and its methods.
 
 The sequence diagram shows the order in which the user and different parts of the program interact while a waste item is being classified.
 
-![Sequence Diagram](diagrams/sequence_diagram.png)
+![Sequence Diagram](screenshots/sequence_diagram.png)
 
 ### 19.6 Component Diagram
 
